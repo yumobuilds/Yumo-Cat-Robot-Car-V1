@@ -9,7 +9,8 @@ Built by **[Yumo Builds](https://www.youtube.com/@YumoBuilds)**. 3D printing and
 > 🎥 **Build video:** coming soon on [Yumo Builds](https://www.youtube.com/@YumoBuilds)
 
 <!-- Add a photo or GIF of the finished car here -->
-<!-- ![Yumo Cat Car](images/yumo-cat-car.jpg) -->
+<img width="744" height="415" alt="Screenshot 2026-10-17 at 19 52 07" src="https://github.com/user-attachments/assets/b7853a89-3648-450c-8ed7-ed82063488df" />
+
 
 ---
 
@@ -61,7 +62,7 @@ The car and the remote each have their **own ESP32-C3 Super Mini**.
 | GC9A01 round TFT, 240×240, SPI | Car | 1 | The cat's face |
 | SSD1306 OLED 128×32, I²C | Car | 2 | Addresses `0x3C` and `0x3D` (set one by the address jumper) |
 | Touch sensor module (digital output) | Car | 1 | Pin `GPIO 4` |
-| Continuous-rotation servos | Car | 4 | 1500 µs = stop. Model: `[fill in]` |
+| Continuous-rotation servos | Car | 4 | 1500 µs = stop. Model: ` 360 servo micro` |
 | Analog joystick module (VRx, VRy, SW) | Remote | 1 | |
 | 18650 lithium battery (3.7 V) | Car | 2 | Power for the car |
 | Small lithium battery (3.7 V) | Remote | 1 | Power for the remote |
