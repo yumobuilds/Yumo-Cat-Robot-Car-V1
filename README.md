@@ -6,7 +6,7 @@ The car has a round TFT screen that plays frame-by-frame cat animations (8 emoti
 
 Built by **[Yumo Builds](https://www.youtube.com/@YumoBuilds)**. 3D printing and design experiments live on **[Yumo Builds Lab](https://www.youtube.com/@YumoBuildsLab)**.
 
-> 🎥 **Build video:** [add link here]
+> 🎥 **Build video:** coming soon on [Yumo Builds](https://www.youtube.com/@YumoBuilds)
 
 <!-- Add a photo or GIF of the finished car here -->
 <!-- ![Yumo Cat Car](images/yumo-cat-car.jpg) -->
