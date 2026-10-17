@@ -114,7 +114,7 @@ The car and the remote each have their **own ESP32-C3 Super Mini** and run their
 
 #### Tested with
 
-Arduino IDE: `[fill in]`
+Arduino IDE: `2.0.18`
 
 | Item | Car board | Remote board |
 |---|---|---|
@@ -242,10 +242,9 @@ The wheels were designed by me and printed on a **Bambu Lab H2C**.
 | Plate | Plate 1, 4 wheels per plate (one per servo) |
 | Printer | Bambu Lab H2C |
 | Build plate | Textured PEI plate |
-| Filament | PLA, rainbow, 22.03 g for the plate of 4 (right nozzle) |
+| Filament | PLA, rainbow, 22.03 g (right nozzle) |
 | Print time | about 58 minutes |
-| Layer height / infill | `[fill in]` |
-| Tyres or grip | `[fill in]` |
+
 
 STL file: [`stl/Micro servo wheel.stl`](stl/Micro%20servo%20wheel.stl)
 
