@@ -119,7 +119,7 @@ Arduino IDE: `2.0.18`
 | Item | Car board | Remote board |
 |---|---|---|
 | Sketch | `Yumo_Cat_Bot_Car.ino` | `Yumo_Cat_Bot_Remote.ino` |
-| ESP32 board package (Arduino core) | `2.0.18-arduino.5` | `[fill in]` |
+| ESP32 board package (Arduino core) | `2.0.18-arduino.5` | `_____` |
 | Extra libraries | 5 (listed below) | None |
 
 To install a specific version, open **Tools → Board → Boards Manager** (or **Sketch → Include Library → Manage Libraries**), search for the item and pick the version from the drop-down before pressing Install.
@@ -141,8 +141,8 @@ To install a specific version, open **Tools → Board → Boards Manager** (or *
 | Setting | Car board | Remote board |
 |---|---|---|
 | Board | ESP32C3 Dev Module | ESP32C3 Dev Module |
-| Flash size | 4 MB | `[fill in]` |
-| Partition scheme | Huge APP | `[fill in]` |
+| Flash size | 4 MB | `___` |
+| Partition scheme | Huge APP | `___` |
 
 Why the car board needs *Huge APP*: the 120 animation frames add up to about **1.5 MB** of flash, which does not fit in the default app partition. The remote sketch has no animation data, so it is much smaller.
 
