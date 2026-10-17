@@ -1,4 +1,4 @@
-# 🐱 Yumo Cat Car
+# 🐱 Yumo Cat Robot Car
 
 A desk-pet robot car with an animated cat face, plus a joystick remote.
 
